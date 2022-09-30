@@ -1,0 +1,12 @@
+Place_index,Place_name,"Lat, Long",Neighbors_indice,Neighbors_weight
+0,Baqiyatallah Hospital,"35.756, 51.395","3,6,7","7,7,5"
+1,Tehran Heart Center,"35.720, 51.389","2,3","2,3"
+2,Tehran Museum of Contemporary Art,"35.711, 51.391","1,8,9","4,6,3"
+3,"University of Tehran College of Engineering","35.724, 51.388","0,1,6","6,2,12"
+4,Africa Cinema,"35.716, 51.408","8,9","3,2"
+5,Gholhak Subway Station,"35.773, 51.438","6,7,10","6,6,3"
+6,Tabiat Bridge,"35.754, 51.420","0,3,5,8","6,12,10,4"
+7,Mellat Park,"35.778, 51.411","0,5","8,13"
+8,Mirzaye Shirazi Station,"35.728, 51.417","2,4,6","6,3,8"
+9,ValiAsr Square,"35.712, 51.407","2,4","3,1"
+10,Mofid Children's Hospital,"35.734, 51.329",5,5
